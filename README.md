@@ -6,7 +6,7 @@ https://status.libs.be/ - https://docs.libs.be/ - https://serverland.be/ > My pe
 ▀   ▄█▀  ██ ▀▀ ██                                            “Automating the boring stuff.”
   ▀▀▀█▄  ██ ██ ████▄ ▄██▀█
 ▄    ██  ██ ██ ██ ██ ▀███▄            Achieved: CCNA1 / Cyber Threat Management / Int Cybersec
-▀█████▀ ▄██▄██▄████▀█▄▄██▀            To-do: Security+ / Digital Forensics / Earn a job at Aikido
+▀█████▀ ▄██▄██▄████▀█▄▄██▀            To-do: Security+ / Digital Forensics 
                           
 ```
       
